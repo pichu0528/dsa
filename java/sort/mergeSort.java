@@ -1,4 +1,4 @@
-public class MyClass {
+public class mergeSort {
   public static void printArr(int[] arr) {
     for(int i : arr) System.out.println(i);
   }
